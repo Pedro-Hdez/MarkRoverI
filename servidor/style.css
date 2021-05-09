@@ -1,0 +1,48 @@
+html {
+    font-family: Arial;
+    display: inline-block;
+    margin: 0px auto;
+    text-align: center;
+}
+
+h1 { 
+    font-size: 2.0rem; color:#2980b9;
+}
+
+h2 { 
+    font-size: 1.25rem; color:#2980b9;
+}
+
+.directionButton{
+    width: 10%;
+    height: 10%;
+    outline:none;
+    padding: 10px;
+}
+
+.atmPilotButton{
+    width: 10%;
+    height: 10%;
+    outline:none;
+    padding: 10px;
+}
+
+.directionButton:active{
+    box-shadow: 0 1px #666;
+    transform: translateY(10px);
+    outline:none;
+}
+
+.atmPilotButton:active{
+    box-shadow: 0 1px #666;
+    transform: translateY(10px);
+    outline:none;
+}
+
+.selected{
+    transform: translateY(10px);
+}
+
+.unselected{
+    transform: translateY(-10px);
+}
