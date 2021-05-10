@@ -68,4 +68,7 @@ Si se desea reentrenar la red neuronal:
 
 2. Copiar la salida del script en el archivo [sensores_y_red_neuronal.ino](https://github.com/Pedro-Hdez/MarkRoverI/blob/master/microcontroladores/sensores_y_red_neuronal/sensores_y_red_neuronal.ino)
 
-Consultar el [Desarrollo del proyecto](https://drive.google.com/file/d/1CgL-m6Xf-vCdh7g9XYtH9Jat35hXKd-Q/view?usp=sharing) para una mejor explicación del mismo.
+## Recursos adicionales
+
+* Consultar el [Desarrollo del proyecto](https://drive.google.com/file/d/1CgL-m6Xf-vCdh7g9XYtH9Jat35hXKd-Q/view?usp=sharing) para una mejor explicación del mismo.
+* [Aquí](https://drive.google.com/file/d/1jBaRuyCzt3rDAo4bRxy01-T76NiVs_aa/view?usp=sharing) una pequeña demostración.
