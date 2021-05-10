@@ -1,6 +1,6 @@
 # Mark Rover I
 
-![markrover](assets/markrover1.jpeg)
+![markrover](assets/mark_rover1.jpeg)
 
 Mark Rover I es un sistema desarrollado en Arduino que permite el control a distancia de un vehículo desde cualquier lugar del mundo mediante una conexión a Internet; 
 además, cuenta con la autonomía para esquivar obstáculos. Es un proyecto que combina la electrónica con el aprendizaje automático y el internet de las cosas, 
