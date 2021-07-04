@@ -71,4 +71,4 @@ Si se desea reentrenar la red neuronal:
 ## Recursos adicionales
 
 * Consultar el [Desarrollo del proyecto](https://drive.google.com/file/d/134aWymGmzpgbLfWg98f1rKrrcXbydJNu/view?usp=sharing) para una mejor explicación del mismo.
-* [Aquí](https://drive.google.com/file/d/1jBaRuyCzt3rDAo4bRxy01-T76NiVs_aa/view?usp=sharing) una pequeña demostración.
+* [Aquí](https://www.youtube.com/watch?v=rC0AX6J5t64) una pequeña demostración.
